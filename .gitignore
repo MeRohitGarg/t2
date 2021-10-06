@@ -1,2 +1,5 @@
-error.log
+*.log
 aerror.txt
+c.txt
+a
+\directory\
