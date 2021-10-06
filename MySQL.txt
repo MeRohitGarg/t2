@@ -1,0 +1,4 @@
+MySql:-
+Port: 3306, X Protocol Port: 33060
+
+Password: admin@1357
